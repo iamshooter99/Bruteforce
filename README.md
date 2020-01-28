@@ -3,10 +3,10 @@ Bruteforce Attacker - Stole your Password
 
 
 usage: bruteforce.py [-h] [-v]
+
+
                      url name_email name_pass xpath_login title filePath
                      fireFox_path
-
-Bruteforce Attacker - Stole your password
 
 positional arguments:
   url            Url of the Website
