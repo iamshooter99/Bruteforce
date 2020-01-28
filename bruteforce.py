@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import utils
 import argparse
 from selenium import webdriver
